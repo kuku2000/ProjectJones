@@ -1,0 +1,17 @@
+.title{
+
+ position:absolute;
+           color:white;
+           z-index:80;
+           width:50%;
+           margin-left:3%;
+           margin-top:15%;
+           font-size:3vw;
+
+}
+.Card{
+background: rgb(0, 0, 0);
+background: radial-gradient(circle, rgba(0, 0, 0, 1) 97%, rgba(255, 0, 0, 1) 100%);
+box-shadow: tomato 2vw;
+
+}
